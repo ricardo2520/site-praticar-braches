@@ -1,2 +1,3 @@
 # site-praticar-braches
-Exercício: Praticar sobra Braches.
+Exercício simples e básico para praticar o 
+assunto das Branches, Featre, e também do Merge.
