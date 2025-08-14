@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    margin: 0 auto;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+    background-color: tomato;
+}
+
+p {
+    font-size: 20px;
+    color: green;
+}
+
+footer p {
+    color: yellow;
+}
